@@ -1,9 +1,0 @@
-com\example\demo\DemoApplication.class
-com\example\demo\repository\FoodRepo.class
-com\example\demo\service\FoodService.class
-com\example\demo\model\Restaurant.class
-com\example\demo\controller\FoodController.class
-com\example\demo\model\Exper.class
-com\example\demo\model\Food.class
-com\example\demo\model\Review.class
-com\example\demo\repository\RestaurantRepo.class
