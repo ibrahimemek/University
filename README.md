@@ -1,2 +1,3 @@
 # University
-Tthis folder contains assignments, quizes of university.
+This folder contains assignments, quizes of university.
+Food delivery contains food delivery website back-end.
